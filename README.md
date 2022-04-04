@@ -14,9 +14,12 @@ Backend files for the facerecognitionbrain repository
 
 ## Tools Used here
 
-mongodb for creating and deloying the database
-mongoose to interact with the database
-bycrypt to hash and compare the password
-React to make the front-end
+-mongodb for creating and deloying the database
+
+-mongoose to interact with the database
+
+-bycrypt to hash and compare the password
+
+-React to make the front-end
 
 to check the front end please [click here](https://github.com/alQaisi/facerecognitionbrain)
